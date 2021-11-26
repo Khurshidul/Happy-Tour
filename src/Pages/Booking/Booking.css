@@ -1,0 +1,15 @@
+*{
+    border: none;
+}
+.booking form{
+    display: flex;
+    flex-direction: column;
+    border: none;
+}
+.booking form input{
+    border-bottom: 5px solid rgba(0, 0, 0, 0.849);
+   height: 50px;
+}
+.order-submin{
+    border: none;
+}

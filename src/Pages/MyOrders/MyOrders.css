@@ -1,0 +1,17 @@
+.manage-order div{
+    border: 2px solid rgb(169, 169, 170);
+    height:50px;
+    padding: 5px;
+}
+.manage-order{
+    background-color: rgb(190, 188, 185);
+    width: 90vw;
+    
+}
+.container{
+    display: flex;
+}
+.order-container{
+    height: 600px;
+    background-color:rgb(5, 5, 26);
+}

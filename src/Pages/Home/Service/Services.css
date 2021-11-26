@@ -1,0 +1,18 @@
+.single-service{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height:500px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 5px rgb(214, 212, 212);
+    width:300px;
+}
+.single-service img{
+    width: 280px;
+    height: 250px;
+}
+.single-service:hover{
+    transform:scale(1.02)
+}
+.fa-arrow-alt-circle-right{
+    font-size:25px;
+}

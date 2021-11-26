@@ -1,0 +1,31 @@
+.banner-bg{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(117, 143, 134);
+  margin-bottom: 20px;
+ 
+
+}
+.hr-line{
+    border-top:8px solid rgb(0, 0, 77);
+}
+.banner-bg img{
+    opacity: 0.85;
+    width:500px;
+  
+}
+.project-name{
+
+    font-size:50px;
+    font-weight:bold;
+}
+.banner img{
+    height:700px;
+}
+@media only screen and (max-width: 688px){
+
+        .banner-bg{
+            display:block;
+    }
+}

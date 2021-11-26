@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Dr. A.S.M. Zahid",
+        "img":"https://i.ibb.co/hKDrC28/dr-Zahid.jpg",
+        "degrees":"MBBS, FCPS (Medicine)",
+        "description":"Dr. A.S.M Jahed is a Medicine Specialist doctor in Chittagong. His qualification is MBBS, FCPS (Medicine). He is working as a Medicine ..."
+    },
+    {
+        "name":"Dr. A.S.M. Didarul Alam.",
+        "img":"https://i.ibb.co/dm2jLLd/dr-didar.png",
+        "degrees":"MBBS, DTM & H, MAMS, FRSH, PGT (ENT)",
+        "description":"Dr. Didarul Alam. MBBS, DCH, MD (Pediatric), FCPS (Child); Child Specialist; Chattagram Maa O Shishu Hospital..."
+    },
+    {
+        "name":"Dr. Alhaj Nurul Islam",
+        "img":"https://i.ibb.co/3vQqt6f/dr-nurul.jpg",
+        "degrees":"MBBS, Fellow, WHO (UK), Fellow ECFMG (USA) BMDC",
+        "description":"Dr. Al-Haj Nurul Islam located at 145, Jamal Khan Road, (Lichu Bagan), Chattogram - Doctors-MBBS, Fellow, WHO (UK), Fellow ECFMG (USA) BMDC."
+    },
+    {
+        "name":"Dr. Alok Kumar Raha.",
+        "img":"https://i.ibb.co/dWLyLXT/dr-alok.jpg",
+        "degrees":"MBBS (Dhaka), MCPS (Medicine), MD (Hepatology).",
+        "description":"Dr Alok Kumar Raha is expertise in Hepatology-Liver. Educational qualification : MBBS, MCPS (Medicine), MD (Hepatology)."
+    }
+    
+]

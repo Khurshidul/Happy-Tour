@@ -1,0 +1,61 @@
+*{
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+.header-media-address{
+    background-color: rgba(128, 128, 128, 0.472);
+   
+}
+.fa-hospital{
+    font-size:40px;
+    color:darkslateblue;
+}
+.D.T-Road{
+    color: rgb(4, 4, 122);
+}
+.sagorika{
+    font-size:20px;
+    font-weight: 400;
+    color: cadetblue;
+}
+.city{
+    font-size:25px;
+    font-weight: 700;
+    color: cornflowerblue;
+}
+.header-address-media-part{
+    margin: 5px 50px;
+    display: flex;
+    justify-content:space-between;
+}
+.header-media{
+    margin-top: 15px;
+
+}
+.logIn-logOut{
+    display: flex;
+    
+}
+
+.navbar-top{
+     display: flex;
+     justify-content:space-between;
+     align-items: center;
+    background-color: rgb(69, 69, 73);
+     width:100%;
+}
+.navbar-menu{
+    padding-right: 20px;
+}
+.login-user{
+    background-color:rgb(0, 132, 255);
+    padding: 8px 30px;
+    border-radius:5px;
+    text-decoration: none;
+    color: white;
+}
+.user-manageable{
+    display:flex;
+    flex-direction: column;
+}

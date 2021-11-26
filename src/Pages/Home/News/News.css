@@ -1,0 +1,17 @@
+.card{
+    margin: 40px 40px;
+    background-color:rgb(190, 183, 183);
+}
+.news-portal{
+    background-color:rgb(195, 192, 192);
+    margin-top: 25px;
+}
+.news-header{
+    margin: auto;
+    border-bottom: 5px solid rgb(180, 176, 176);
+    width:500px;
+}
+.news-card img{
+    width: 92vw;
+    height: 60vh;
+}
